@@ -34,3 +34,4 @@ git push origin master
 * 오늘은 JavaScript 함수를 복습했다.
 * 콜백함수를 실습했다.
 * `Git`의 간단한 명령어에 대해서 학습했다.
+* git은 왜 add와 commit으로 나눠서 할까 그냥 올리면 되는데?
