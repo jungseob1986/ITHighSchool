@@ -56,5 +56,6 @@ var printUsers = function() {
 
 signin('a', 10, function() {
 	console.log('가입이 끝나고 콜백함수를 호출했다!!!!!!!!!!!');
+	console.log();
 	printUsers();
 });
